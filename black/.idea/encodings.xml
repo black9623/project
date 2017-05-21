@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/build/dev-server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/beauty.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/classList.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/conte.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/dataList.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/imaList.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/luggage.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/luggageCon.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/nurseC.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/nurseT.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/shopping.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/title.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/Footer/footer.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/Header/header.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/Swiper/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/classification/brand.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/classification/classification.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/classification/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/home/Beauty.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/home/Hello.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/home/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/home/luggage.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/home/nurse.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/recommend/shoppingcart/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/config/router/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/Swiper/css/swiper.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Hello/nav/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Hello/view4/conten/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Ification/brand/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Ification/clsContent/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/Ification/clsTitle/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/shoppingcart/cart/index.vue" charset="UTF-8" />
+  </component>
+</project>
